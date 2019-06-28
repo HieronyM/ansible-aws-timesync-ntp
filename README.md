@@ -1,6 +1,6 @@
 # ansible-aws-timesync-ntp #
 
-Install and setup aws-timesync service (replacement for ntp service)
+Install and setup aws-timesync service (replacement for ntp service) <br />
 source: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html
 
 ## Requirements ##
